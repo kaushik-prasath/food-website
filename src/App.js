@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 import HomeComponent from './components/HomeComponent';
+import MultipleSelect from './components/MultipleSelect';
+
 
 import './App.css';
 
@@ -8,7 +10,7 @@ class App extends Component {
         return (
             < div className = "App" >
                 <HomeComponent />
-                <div className="logo"></div>
+                <MultipleSelect />
             </div>
         );
     }
