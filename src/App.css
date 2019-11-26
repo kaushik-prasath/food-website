@@ -128,3 +128,45 @@ color: #777;
     background-size: contain;
      background-blend-mode: multiply;
 }
+
+select{
+    border: 0;
+}
+
+.sel{
+    width: 600px;
+    height:80vh;
+}
+
+.mar-tp{
+    margin-top: 150px;
+    /* margin: 0 10px; */
+}
+
+.mar-tp h4{
+    color: white;
+}
+
+.bt-mr{
+    padding-top: 150px;
+}
+.white-bt{
+    color: white;
+    background-color: #F8A22F;
+    border-radius: 32px;
+    margin-top: 250px;
+}
+
+option{
+    padding: 5px;
+    margin-top: 20px;
+}
+
+option:active{
+    background-color: white;
+}
+
+
+option:hover{
+    background: orange;
+}
