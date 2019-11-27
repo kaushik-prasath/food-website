@@ -14,7 +14,7 @@ class HomeComponent extends Component {
             <div class="home-wrapper">
                 <nav className="navbar navbar-expand-lg ">
                     <a className="navbar-brand" href="#">
-                        <img src={require('../logo.png')} width="60" height="60" alt=""/>
+                        // <img src={require('../logo.png')} width="60" height="60" alt=""/>
                     </a>
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav ml-auto">
@@ -47,7 +47,7 @@ class HomeComponent extends Component {
                     </div>
 
                     <div className="banner">
-                        <img src={require('../food.png')} width="450" height="450" alt=""/>
+                        // <img src={require('../food.png')} width="450" height="450" alt=""/>
                     </div>
                 </section>
             </div>

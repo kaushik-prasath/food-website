@@ -124,7 +124,7 @@ color: #777;
 .multiple-wrapper{
     height: 100vh;
     background: rgba(9, 12, 56, 0.9);
-    background-image: url("food-bg.jpg");
+    /* background-image: url("food-bg.jpg"); */
     background-size: contain;
      background-blend-mode: multiply;
 }
